@@ -1,0 +1,24 @@
+body {
+  background-color: #454d55;
+  color: white;
+}
+
+#heading {
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+}
+
+#ct {
+  float: right;
+}
+
+#time {
+  font-size: 20px;
+}
+
+#myMap {
+  width: 1200px;
+  height: 1080px;
+  float: left;
+  margin: 0px 0px 0px 20px;
+}

@@ -1,0 +1,10 @@
+Please speak these commands in sequence after hitting the Start button:
+Show Waterfalls
+Clear map
+Show beaches
+Where can I play golf
+Clear map
+Show parkings
+Information about Hamilton
+Information about McMaster University
+Clear map
